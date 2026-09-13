@@ -17,7 +17,7 @@ import java.util.Set;
 
 import static org.firstinspires.ftc.teamcode.vision.VisionConstants.*;
 
-public class Vision extends SubsystemBase {
+public class  Vision extends SubsystemBase {
 
     private final Limelight3A limelight;
     private final Telemetry telemetry;
